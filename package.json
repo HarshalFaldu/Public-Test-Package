@@ -1,0 +1,22 @@
+{
+  "name": "text2speech",
+  "description": "",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HarshalFaldu/Public-Test-Package.git"
+  },
+  "keywords": ["Text to Speech"],
+  "dependencies": {
+    "request": "^2.88.2"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HarshalFaldu/Public-Test-Package/issues"
+  },
+  "homepage": "https://github.com/HarshalFaldu/Public-Test-Package"
+}
